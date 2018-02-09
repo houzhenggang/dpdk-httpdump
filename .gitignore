@@ -50,3 +50,14 @@ modules.order
 Module.symvers
 Mkfile.old
 dkms.conf
+/.vscode
+
+# Build Files
+_install
+_postbuild
+_postinstall
+_preinstall
+build/
+dpdk-httpdump
+/.doc
+/log
